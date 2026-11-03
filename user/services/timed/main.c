@@ -1,4 +1,4 @@
-#include <net/protocols/socket.h>
+#include <net/socket.h>
 #include <net/protocols/netd.h>
 #include <stdio.h>
 #include <string.h>
